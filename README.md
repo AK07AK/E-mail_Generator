@@ -1,2 +1,2 @@
 # E-mail_Generator
-This is a Basic project which will generate random password and will create a work mail id and allow user to change the password
+This is a Basic java project which will create a work email id with random generated password 
